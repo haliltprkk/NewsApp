@@ -1,6 +1,5 @@
 # NewsApp
 an android app that you can read news with guardian api.<br/>
-<img src="https://raw.githubusercontent.com/haliltprkk/NewsApp/master/images/guardian.png" align="left"/><br/>
 <table  border="0" cellspacing="0" cellpadding="0"> 
     <tr> 
    <td><img src="https://raw.githubusercontent.com/haliltprkk/NewsApp/master/images/guardian.png" align="left"/></td> 
